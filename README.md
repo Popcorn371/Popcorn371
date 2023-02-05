@@ -9,7 +9,7 @@
 </a>
 </p>
  
-
+[![wakatime](https://wakatime.com/badge/user/29811bc0-cfd2-4cd8-993f-ca06ced7ea2e.svg)](https://wakatime.com/@29811bc0-cfd2-4cd8-993f-ca06ced7ea2e)
 
 ---
 
